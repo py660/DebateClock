@@ -8,3 +8,4 @@ DebateClock is a mobile browser-based parli style debate timer, with support for
  - Speech info indicators
  - Manual control for individual speech timing
  - Simple at-a-glance information conveyance
+ - And a sleek minimalistic UI with functionality as its first priority
